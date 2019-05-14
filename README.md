@@ -1,5 +1,7 @@
 ![logo_t](./demo_images/logo.png)
 
+HyperLPR是一个使用深度学习针对对中文车牌识别的实现，与较为流行的开源的其他框架相比，它的检测速度和鲁棒性和多场景的适应性都要好于目前开源的框架，HyperLPR可以识别多种中文车牌包括白牌，新能源车牌，使馆车牌，教练车牌，武警车牌等。 
+
 ## HyperLPR   高性能开源中文车牌识别框架
 
 #### [![1](https://badge.fury.io/py/hyperlpr.svg "title")](https://pypi.org/project/hyperlpr/)[![1](https://img.shields.io/pypi/pyversions/hyperlpr.svg "title")](https://pypi.org/project/hyperlpr/)
